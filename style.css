@@ -78,7 +78,7 @@ button::before {
   left: 50%;
   width: 50%;
   height: 100%;
-  background-image: url("assets/png1.jpeg");
+  background-image: url("assets/me.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -479,13 +479,16 @@ button {
 }*/
 
 .cardcertification--1 .card__img, .cardcertification--1 .card__img--hover {
-  background-image: url('assets/certifications/ProfessionDE.PNG');
+  background-image: url('assets/certifications/Award.png');
 }
 .cardcertification--2 .card__img, .cardcertification--2 .card__img--hover {
-  background-image: url('assets/certifications/DE2.png');
+  background-image: url('assets/certifications/Yearly.png');
 }
 .cardcertification--3 .card__img, .cardcertification--3 .card__img--hover {
-  background-image: url('assets/certifications/JovianDL.PNG');
+  background-image: url('assets/certifications/Porsche.png');
+}
+.cardcertification--4 .card__img, .cardcertification--4 .card__img--hover {
+  background-image: url('assets/certifications/Monthly.png');
 }
 
 .card__clock {
